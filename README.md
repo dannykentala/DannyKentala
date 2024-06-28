@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Backend Developer from Colombia :colombia:.
+I am a Backend Developer from <img src="https://github.com/dannykentala/DannyKentala/assets/137356213/ea4c7658-232e-4020-a1ac-5fcc5f7ba5f6" width="13" /> **Medellin, Colombia**.
 
 ---
 
@@ -28,15 +28,14 @@ I am a Backend Developer from Colombia :colombia:.
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" **alt="Csharp" width="40" height="40" fill="blue"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Linux" **alt="Linux" width="40" height="40" fill="blue"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" **alt="TypeScript" width="40" height="40" fill="blue"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Dotnet" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Linux" **alt="Linux" width="40" height="40" fill="blue"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Linux" **alt="Linux" width="40" height="40" fill="blue"/>&nbsp;
-  
-  
+
 </div>
 
 ---
@@ -52,7 +51,7 @@ I am a Backend Developer from Colombia :colombia:.
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=dannykentala&theme=highcontrast&hide_border=true&ring=4033F5&fire=2F25B3&currStreakLabel=2F25B3)](https://git.io/streak-stats)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannykentala&hide=html,jupyter%20notebook&layout=donut&theme=vision-friendly-dark&hide_border=true&title_color=2F25B3)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannykentala&hide=html,jupyter%20notebook&layout=donut&theme=vision-friendly-dark&hide_border=true&title_color=4338d9)
 
 </div>
 
