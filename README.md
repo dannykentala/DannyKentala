@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=dannykentala&label=PROFILE+VIEWS&color=8d1313&base=100&style=flat" alt=""/>
 </div>
 
----
+
 
 ### :man_technologist: About Me :
 
@@ -40,12 +40,21 @@ I am a Backend Developer from <img src="https://github.com/dannykentala/DannyKen
 
 ---
 
-### :briefcase: Projects:
+### :briefcase: Projects I'm working on:
+</br>
+
+> 📦 <a href=""><b>GuardGrove</b></a>
+ > 
+> 🏆 <a href=""><b>Cupnova</b></a>
+ > 
+> 🔑 <a href=""><b>JWT Library</b></a>
+ > 
+> 📜 <a href=""><b>MailerSend API Library</b></a>
 
 
 ---
 
-### :fire: My Stats - Contributions :
+### :fire: My Stats:
 
 <div id="stats" align="center">
   
@@ -56,16 +65,13 @@ I am a Backend Developer from <img src="https://github.com/dannykentala/DannyKen
 </div>
 
 <!--
-**DannyKentala/DannyKentala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Want to build a Readme like this?
 
-Here are some ideas to get you started:
+See
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://www.sitepoint.com/github-profile-readme/
+https://github.com/thmsgbrt/thmsgbrt/blob/master/README.md
+
+https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file
+https://bootcamp.uxdesign.cc/how-to-design-an-attractive-github-profile-readme-3618d6c53783
 -->
