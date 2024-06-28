@@ -15,7 +15,6 @@
 </div>
 
 
-
 ### :man_technologist: About Me :
 
 I am a Backend Developer from <img src="https://github.com/dannykentala/DannyKentala/assets/137356213/ea4c7658-232e-4020-a1ac-5fcc5f7ba5f6" width="13" /> **Medellin, Colombia**.
