@@ -1,9 +1,19 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3E2YnRrN29wa253M3ZldG50bDhqbWxtYzY2emxna2JkMTltbTY5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGv5a1Bk35FPSW4/giphy.gif
-" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3E2YnRrN29wa253M3ZldG50bDhqbWxtYzY2emxna2JkMTltbTY5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGv5a1Bk35FPSW4/giphy.gif" width="100"/>
 </div>
+
+
+<div id="header" align="center">
+  <img src="![ezgif com-speed](https://github.com/DannyKentala/DannyKentala/assets/137356213/91c970de-1747-48d4-a496-61bb92dcff8d)" width="100"/>
+</div>
+
+
+<div id="header" align="center">
+  <img src="![ezgif com-speed](https://github.com/DannyKentala/DannyKentala/assets/137356213/91c970de-1747-48d4-a496-61bb92dcff8d)" width="100"/>
+</div>
+
 <!-- https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3E2YnRrN29wa253M3ZldG50bDhqbWxtYzY2emxna2JkMTltbTY5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGv5a1Bk35FPSW4/giphy.gif -->
 
 <!--
