@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3E2YnRrN29wa253M3ZldG50bDhqbWxtYzY2emxna2JkMTltbTY5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGv5a1Bk35FPSW4/giphy.gif
+" width="100"/>
+</div>
+<!-- https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3E2YnRrN29wa253M3ZldG50bDhqbWxtYzY2emxna2JkMTltbTY5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGv5a1Bk35FPSW4/giphy.gif -->
+
 <!--
 **DannyKentala/DannyKentala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
