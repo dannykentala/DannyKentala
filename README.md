@@ -11,7 +11,7 @@
 </div>
 
 <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=dannykentala&label=PROFILE+COUNTER&color=8d1313&base=100&style=flat" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=dannykentala&label=PROFILE+VIEWS&color=8d1313&base=100&style=flat" alt=""/>
 </div>
 
 ---
@@ -24,21 +24,18 @@ I am a Backend Developer from Colombia :colombia:.
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Dotnet" alt="Csharp" width="40" height="40"/>&nbsp;
+<div id="icons">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" **alt="Csharp" width="40" height="40" fill="blue"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" **alt="TypeScript" width="40" height="40" fill="blue"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Dotnet" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" **alt="Csharp" width="40" height="40" fill="blue"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Linux" **alt="Linux" width="40" height="40" fill="blue"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Linux" **alt="Linux" width="40" height="40" fill="blue"/>&nbsp;
   
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Csharp" **alt="Dotnet" width="40" height="40" fill="blue"/>
-  </div>
   
 </div>
 
@@ -51,6 +48,13 @@ I am a Backend Developer from Colombia :colombia:.
 
 ### :fire: My Stats - Contributions :
 
+<div id="stats" align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=dannykentala&theme=highcontrast&hide_border=true&ring=4033F5&fire=2F25B3&currStreakLabel=2F25B3)](https://git.io/streak-stats)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dannykentala&hide=html,jupyter%20notebook&layout=donut&theme=vision-friendly-dark&hide_border=true&title_color=2F25B3)
+
+</div>
 
 <!--
 **DannyKentala/DannyKentala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
