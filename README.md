@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/Backend-blue?style=for-the-badge&logo=csharp&logoColor=white" alt="Backend Badge"/>
-  <a href="https://www.linkedin.com/in/dannykentala-software-engineer/" target="_blank">
+  <a href="www.linkedin.com/in/andres-david-hernandez-software-engineer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=archlinux&logoColor=#1793D1" alt="Linux Badge"/>
